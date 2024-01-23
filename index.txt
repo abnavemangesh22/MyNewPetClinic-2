@@ -18,6 +18,13 @@ Design of Python Spark scripts as per the solution requirements
 # terraform workspace select dev
 # terraform workspace select dev
 # terraform workspace select dev
+# terraform workspace select dev
+# terraform workspace select dev
+# terraform workspace select dev
+# terraform workspace select dev
+# terraform workspace select dev
+# terraform workspace select dev
+# terraform workspace select dev
 
 
 terraform modules:
